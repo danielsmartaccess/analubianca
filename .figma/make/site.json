@@ -1,0 +1,10 @@
+{
+  "description": "Discover premium real estate and architectural projects with a user-friendly filtering survey that captures leads and connects clients to tailored solutions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
