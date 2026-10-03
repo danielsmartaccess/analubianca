@@ -28,7 +28,7 @@ interface SurveyProps {
 
 const images = {
   hero: "https://images.unsplash.com/photo-1685545047187-93449c73d59b?auto=format&fit=crop&w=2200&q=88",
-  portraitSlot: "/images/fotofinalAna.jpeg",
+  portraitSlot: `${import.meta.env.BASE_URL}images/fotofinalAna.jpeg`,
   house:
     "https://images.unsplash.com/photo-1687938627893-e181901fc7e0?auto=format&fit=crop&w=1200&q=84",
   apartment:
